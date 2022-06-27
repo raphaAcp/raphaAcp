@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @raphaAcp
 - 👀 I’m interested in JavaScript
 - 🌱 I’m currently learning CSS
-- 💞️ I’m looking to collaborate on student
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: e-mail
 
 <!---
